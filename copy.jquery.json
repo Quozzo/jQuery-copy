@@ -2,8 +2,12 @@
     "name": "copy",
     "version": "1.0.0",
     "title": "copy",
-    "author": "Quozzo",
-    "license": [
+    "author": {
+    "name" : "Scott Crossfield",
+        "email" : "quozzo@hotmail.com",
+        "url" : "scottcrossfield.co.uk/"
+    },
+    "licenses": [
         {
             "url": "http: //opensource.org/licenses/GPL-3.0",
             "type": "GPLv3"
