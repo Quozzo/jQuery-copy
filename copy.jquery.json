@@ -1,0 +1,23 @@
+{
+    "name": "copy",
+    "version": "1.0.0",
+    "title": "copy",
+    "author": "Quozzo",
+    "license": [
+        {
+            "url": "http: //opensource.org/licenses/GPL-3.0",
+            "type": "GPLv3"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.5"
+    },
+    "description": "Quickly clone() elements multiple times",
+    "keywords": [
+        "jquery",
+        "dom"
+    ],
+    "homepage": "https: //github.com/Quozzo/jQuery-copy",
+    "docs": "https: //github.com/Quozzo/jQuery-copy",
+    "download": "https: //github.com/Quozzo/jQuery-copy"
+}
