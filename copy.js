@@ -10,7 +10,7 @@
          for(var i=0,$this=$(this);i<n;i++){
             e = e.add($this.clone(a,b));
          };
-      });alert(e.length);
+      });
       return e;
    };
 })(jQuery);
